@@ -15,6 +15,6 @@ Try using <...>
 
 [1002](https://bitcoin.stackexchange.com/questions/25549/can-we-assume-that-the-ordering-of-vout-matches-n-index-in-json-rpc?rq=1)
 
-Can we assume that <the ordering of vout matches n index> in <json rpc>
+Can we assume that the ordering of vout matches n index in json rpc
 
-Just a random <transaction> for example
+Just a random transaction for example
