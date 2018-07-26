@@ -12,3 +12,9 @@ No, <...> release version is compatible with <...>
 Your exception is related to change made in <...>
 
 Try using <...>
+
+[1002](https://bitcoin.stackexchange.com/questions/25549/can-we-assume-that-the-ordering-of-vout-matches-n-index-in-json-rpc?rq=1)
+
+Can we assume that <the ordering of vout matches n index> in <json rpc>
+
+Just a random <transaction> for example
