@@ -18,3 +18,25 @@ Try using <...>
 Can we assume that the ordering of vout matches n index in json rpc
 
 Just a random transaction for example
+
+[1003](https://stackoverflow.com/questions/48796463/bitcoin-cli-how-to-create-a-wallet-and-utxo-address)
+
+I don't understand how to check if this <...> is <...> or not.
+
+How to see if it's in <...> or not.
+
+I try to make <...>, but this <...> is not there.
+
+That address is the address of your wallet that got paid/mined to in the first block.
+
+You can find it in the first block .
+
+You can find it in the <...>
+
+For multiple wallets, you can simply use .
+
+You can simply do something ...
+
+Thanks for reply how to do something ...
+
+However, I still don't understand where this <...> comes from.
